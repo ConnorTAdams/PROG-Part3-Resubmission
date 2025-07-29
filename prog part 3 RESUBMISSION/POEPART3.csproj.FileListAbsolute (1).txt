@@ -1,0 +1,10 @@
+C:\Users\camry\source\repos\POEPART3\POEPART3\bin\Debug\POEPART3.exe.config
+C:\Users\camry\source\repos\POEPART3\POEPART3\bin\Debug\POEPART3.exe
+C:\Users\camry\source\repos\POEPART3\POEPART3\bin\Debug\POEPART3.pdb
+C:\Users\camry\source\repos\POEPART3\POEPART3\obj\Debug\POEPART3.csproj.AssemblyReference.cache
+C:\Users\camry\source\repos\POEPART3\POEPART3\obj\Debug\POEPART3.MainForm.resources
+C:\Users\camry\source\repos\POEPART3\POEPART3\obj\Debug\POEPART3.Properties.Resources.resources
+C:\Users\camry\source\repos\POEPART3\POEPART3\obj\Debug\POEPART3.csproj.GenerateResource.cache
+C:\Users\camry\source\repos\POEPART3\POEPART3\obj\Debug\POEPART3.csproj.CoreCompileInputs.cache
+C:\Users\camry\source\repos\POEPART3\POEPART3\obj\Debug\POEPART3.exe
+C:\Users\camry\source\repos\POEPART3\POEPART3\obj\Debug\POEPART3.pdb
